@@ -1,0 +1,8 @@
+1 - install Python 3.6
+2 - install pip
+3 - install pygame ----> pip insall pygame
+4 - run py-game.py
+
+By CISCO
+
+https://t.me/Dr_Cool
